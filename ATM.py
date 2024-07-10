@@ -38,5 +38,5 @@ while True:
         print("Thank you for using the ATM ")
         break
     else:
-        print("Invalid choice. Please select a valid option.")
+        print("Invalid. Please select a valid option.")
 
