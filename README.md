@@ -3,6 +3,9 @@ Welcome to the ATM Project! This Python-based application simulates an ATM syste
 
 # Features
 Account Management: Check balance, deposit, and withdraw funds.<br>
+Balance Check: View current balance.<br>
+Deposit: Add funds to the account.<br>
+Withdraw: Withdraw funds from the account.<br>
 Error Handling: Graceful handling of incorrect inputs and system errors<br>
 
 # Prerequisites
